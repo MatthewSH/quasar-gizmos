@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-qgizmos",
+  "version": "0.0.1",
+  "description": "A collection of gizmos for Quasar",
+  "author": "Matthew Hatcher <3768988+MatthewSH@users.noreply.github.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatthewSH/quasar-gizmos"
+  },
+  "bugs": "https://github.com/MatthewSH/quasar-gizmos/issues",
+  "homepage": "",
+  "dependencies": {
+    "quasar-ui-qgizmos": "latest"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
