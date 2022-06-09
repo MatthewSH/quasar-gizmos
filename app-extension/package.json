@@ -12,7 +12,7 @@
   "bugs": "https://github.com/MatthewSH/quasar-gizmos/issues",
   "homepage": "",
   "dependencies": {
-    "quasar-ui-qgizmos": "latest"
+    "quasar-ui-qgizmos": "^0.0.1"
   },
   "engines": {
     "node": ">= 8.9.0",
